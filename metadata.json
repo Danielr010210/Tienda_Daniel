@@ -1,0 +1,6 @@
+{
+  "name": "Online Store with Admin and Employee Sessions",
+  "description": "An elegant, comprehensive online storefront featuring adaptive Customer, Admin, and Employee views. Admins command full inventory and financial oversight, while Employees manage stock levels and fulfill orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
